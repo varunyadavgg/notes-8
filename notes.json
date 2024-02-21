@@ -4,12 +4,15 @@
       "Header and body": "<h1>sda</h1>\r\n<head>This is head  </head>  \r\n<body>This is body  </body>  ",
       "dsa": "dsa",
       "dasagt": "adsafga\r\nfadsas  <h1>\r\n",
-      "asd": "asdasd",
-      "asdasd": "das is good\r\n"
+      "asd": "<p>sda</p>",
+      "asdasd": "das is good\r\n",
+      "das": "",
+      "This is subheading 3": "<h1><img src=\"https://t4.ftcdn.net/jpg/05/38/31/27/360_F_538312719_G9j6iqYRhIKCwZkliwcLLeW2tVSJaN5i.jpg\">Hello this is varun yadav</h1>"
     },
     "2": {},
     "3": {
-      "dasfagfsdgbvxf": "dasdadagfsdgv"
+      "dasfagfsdgbvxf": "dasdadagfsdgv",
+      "dsa": "dsa"
     }
   },
   "DRRM": {
@@ -24,6 +27,17 @@
   "Others": {
     "Owner Page": {
       "This is me at this point of time": "<p>&lt;img src = \"https://t4.ftcdn.net/jpg/05/38/31/27/360_F_538312719_G9j6iqYRhIKCwZkliwcLLeW2tVSJaN5i.jpg\"&gt;</p><h1><a href=\"https://t4.ftcdn.net/jpg/05/38/31/27/360_F_538312719_G9j6iqYRhIKCwZkliwcLLeW2tVSJaN5i.jpg\" target=\"_blank\">This is my current Situation</a></h1><p><br></p>"
+    },
+    "Resources": {
+      "image": "<p><img src=\"https://www.gemoo-resource.com/tools/img/image_urlgenerator_step1@2x.png\"></p>"
+    },
+    "Assignments": {
+      "Lavdalo assignment": "<h1><strong>Heading ra pooka </strong></h1><h2>this is a subheading</h2><p><br></p><pre class=\"ql-syntax\" spellcheck=\"false\">print(\"Hello world\")\r\n</pre>"
+    }
+  },
+  "EC": {
+    "1": {
+      "I am lost in th eabyss": "<p>&lt;script&gt;</p><p>&nbsp;&nbsp;var toolbarOptions = [</p><p>&nbsp;&nbsp;&nbsp;&nbsp;['bold', 'italic', 'underline', 'strike'],&nbsp;&nbsp;&nbsp;&nbsp;// toggled buttons</p><p>&nbsp;&nbsp;&nbsp;&nbsp;['blockquote', 'code-block'],</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'header': 1 }, { 'header': 2 }],&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// custom button values</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'list': 'ordered'}, { 'list': 'bullet' }],</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'script': 'sub'}, { 'script': 'super' }],&nbsp;&nbsp;&nbsp;// superscript/subscript</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'indent': '-1'}, { 'indent': '+1' }],&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// outdent/indent</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'direction': 'rtl' }],&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// text direction</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'size': ['small', false, 'large', 'huge'] }],&nbsp;// custom dropdown</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'header': [1, 2, 3, 4, 5, 6, false] }],</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[ 'link', 'image', 'video', 'formula' ],&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// add's image support</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'color': [] }, { 'background': [] }],&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// dropdown with defaults from theme</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'font': [] }],</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[{ 'align': [] }],</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;['clean']&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// remove formatting button</p><p>&nbsp;&nbsp;];</p><p><br></p><p>&nbsp;&nbsp;var quill = new Quill('#editor', {</p><p>&nbsp;&nbsp;&nbsp;&nbsp;modules: {</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;toolbar: toolbarOptions</p><p>&nbsp;&nbsp;&nbsp;&nbsp;},</p><p>&nbsp;&nbsp;&nbsp;&nbsp;theme: 'snow'</p><p>&nbsp;&nbsp;});</p>"
     }
   }
 }
